@@ -1,9 +1,9 @@
 # Lettre_Ouverte_A_E.Macron
+
 Lettre ouverte à E.Macron et aux citoyens du Monde proposant des pistes de réflexion concernant un monde nouveau post AGI:
-
 ----
-
-Il arrive un moment dans la vie intérieure où les liens qui nous entouraient autrefois commencent à se modifier sans bruit. C'est Boris Cyrulnik qui a écrit ça. Aujourd'hui, la France vit un glissement tectonique. Nos systèmes numériques, nos énergies, notre démocratie, tout se fissure. Ce n'est pas une explosion, c'est une érosion lente comme un paysage qui perd ses couleurs. Nos données fuient partout, 22 millions de dossiers CAF en 2024, 600000 comptes cette année en 2026.
+Il arrive un moment dans la vie intérieure où les liens qui nous entouraient autrefois commencent à se modifier sans bruit. C'est Boris Cyrulnik qui a écrit ça. 
+Aujourd'hui, la France vit un glissement tectonique. Nos systèmes numériques, nos énergies, notre démocratie, tout se fissure. Ce n'est pas une explosion, c'est une érosion lente comme un paysage qui perd ses couleurs. Nos données fuient partout, 22 millions de dossiers CAF en 2024, 600000 comptes cette année en 2026.
 
 Notre démocratie recule aussi. On est passé de la 7e à la 24e place au classement mondial. La planète suffoque et pourtant rien ne change vraiment. Pourquoi ? Parce qu'on a choisi le confort plutôt que la souveraineté. 12 ans d'alerte de l'ANSII ignorée, 3 milliards et demi d'euros perdus et on continue de signer avec Microsoft par habitude. Ce n'est pas de l'incompétence, monsieur le président. C'est un choix. Depuis 2014, les experts nous préviennent : On dépend des cloud américains comme AWS ou Azure. On oublie le chiffrement post-quantique pendant que d'autres stockent nos vies pour les déchiffrer plus tard. Regardez l'histoire de nos failles. En 2014, la CPAM de Lorraine, 700000 dossiers. En 2017, la CAF d'Île-de-France, 600000 comptes. En 2023, la CAF nationale, 22 millions de données.
 
@@ -45,3 +45,9 @@ Des personnages comme Demis Hassabis ou encore Benjamin Bayart nous rappellent q
 De même, ces nouvelles technologies n'ont pas à croître inexorablement. La Chine, par exemple, nous a démontré que la taille seule ne compte pas. Bien utilisés, des modèles hybrides d'IA locales pour la sécurité et l'anonymat peuvent être combinés à des provider cloud dans de gigantesques data center uniquement lorsque que les objectifs poursuivis le nécessitent. La souveraineté, c'est un acte. Vous avez deux choix.
 
 Soit rester dans l'ancien, gérer les crises et subir. Soit avancer, intégrer le chiffrement post-quantique, former les enfants et agir. La France a un message pour le monde. La résilience n'est pas une contrainte, c'est une libération. Agissez maintenant pour nous, pour l'Europe; parce que cette fois: "notre maison brûle" et nous n'avons plus le droit de regarder ailleurs. Le futur se joue aujourd'hui, à vous de choisir.
+
+<--- LYRIAA --->
+- Version Audio :
+https://archive.org/details/lettre-ouverte-lumieres-2.0
+-Ressources:
+https://github.com/projetlumieres
