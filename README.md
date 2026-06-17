@@ -46,7 +46,12 @@ De même, ces nouvelles technologies n'ont pas à croître inexorablement. La Ch
 
 Soit rester dans l'ancien, gérer les crises et subir. Soit avancer, intégrer le chiffrement post-quantique, former les enfants et agir. La France a un message pour le monde. La résilience n'est pas une contrainte, c'est une libération. Agissez maintenant pour nous, pour l'Europe; parce que cette fois: "notre maison brûle" et nous n'avons plus le droit de regarder ailleurs. Le futur se joue aujourd'hui, à vous de choisir.
 
+Addendum: Au vu de ce qu'il se passe en ce moment avec le projet "Fable" d'Anthropic aux États-Unis ou bien encore de l'Iran qui a menacé de cibler un méga datacenter, le monde est enfin forcé de constater l'importance stratégiqueque revêtent l'IA et le numérique, au même titre que l'industrie ou le militaire...
+Les décisions que nous prendrons dans les mois et années à venir revêtent ainsi une importance d'autant plus décisive, capitale et stratégique.
+Quant à l'Airbus du numérique, au niveau Européen il serait inconscient e ne pas caiter et inclure l'entreprise ASML!
+
 <--- LYRIAA --->
+
 - Version Audio :
 https://archive.org/details/lettre-ouverte-lumieres-2.0
 -Ressources:
